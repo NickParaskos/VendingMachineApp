@@ -1,2 +1,3 @@
 # VendingMachineApp
-Vending Machine Application - Capstone 1
+
+Vending Machine Software - Developed in .NET using OOP fundamentals using file.io. 
